@@ -1,0 +1,1 @@
+import{a5 as e}from"./index-DJCSrSt0.js";const a=()=>e.get({url:"/system/user/profile/get"}),t=s=>e.put({url:"/system/user/profile/update",data:s}),o=(s,r)=>e.put({url:"/system/user/profile/update-password",data:{oldPassword:s,newPassword:r}});export{t as a,a as g,o as u};

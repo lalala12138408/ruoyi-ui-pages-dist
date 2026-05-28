@@ -1,0 +1,1 @@
+import{a5 as s}from"./index-DJCSrSt0.js";const t=()=>s.get({url:"/system/menu/simple-list"}),a=e=>s.get({url:"/system/menu/list",params:e}),m=e=>s.get({url:"/system/menu/get?id="+e}),u=e=>s.post({url:"/system/menu/create",data:e}),l=e=>s.put({url:"/system/menu/update",data:e}),r=e=>s.delete({url:"/system/menu/delete?id="+e});export{a,t as b,u as c,r as d,m as g,l as u};
